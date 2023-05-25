@@ -227,6 +227,7 @@ th.survey-answer {
 
 .poll-header {
     text-transform: uppercase;
+    color: green;
 }
 
 .survey-percentage {
